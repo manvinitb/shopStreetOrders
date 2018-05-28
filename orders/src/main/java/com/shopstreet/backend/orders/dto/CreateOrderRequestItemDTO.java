@@ -14,4 +14,6 @@ public class CreateOrderRequestItemDTO {
     private Long mid;
     private Long qty;
     private Double price;
+    private String image;
+    private String productName;
 }
